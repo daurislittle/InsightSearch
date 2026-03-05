@@ -55,9 +55,10 @@ if __name__ == "__main__":
         logging.error("OPENAI_API_KEY environment variable not set")
         sys.exit(1)
         
-    docs_path = os.path.join(os.path.dirname(__file__), "docs.json")
+    docs_path = os.path.join(os.path.dirname(__file__), "docs_example.json")
     docs = load_doc(docs_path)
     
     index_all_docs(docs, api_key)
     
     logging.info("Indexing completed successfully")
+    

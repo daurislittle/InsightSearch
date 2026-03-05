@@ -1,0 +1,12 @@
+[
+  { "id": "1", "text": "How to reset your password using the account settings page" },
+  { "id": "2", "text": "Troubleshooting login issues and authentication errors" },
+  { "id": "3", "text": "Understanding your monthly billing statement" },
+  { "id": "4", "text": "How to cancel or pause your subscription plan" },
+  { "id": "5", "text": "Contact customer support via live chat or email" },
+  { "id": "6", "text": "Setting up two-factor authentication for better security" },
+  { "id": "7", "text": "Exporting your data and account information" },
+  { "id": "8", "text": "How to change your email address or username" },
+  { "id": "9", "text": "Understanding API rate limits and usage quotas" },
+  { "id": "10", "text": "Integrating our platform with third-party tools like Slack or Zapier" }
+]
